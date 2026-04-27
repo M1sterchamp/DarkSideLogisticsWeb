@@ -1,20 +1,53 @@
-- name: Inspect + Commit and push partners-data.json
+name: Update partners-data.json
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Fetch partners and generate JSON
+        run: node scripts/update-partners-json.mjs
+
+      - name: Inspect + force commit + push partners-data.json
         run: |
           echo "PWD: $(pwd)"
           echo "Listing repo root:"
           ls -la
-          echo "partners-data.json exists?"
-          test -f partners-data.json && echo "YES" || echo "NO"
 
-          git status --porcelain
-          git diff --stat
-          git ls-files partners-data.json || true
+          echo "partners-data.json exists?"
+          if [ -f partners-data.json ]; then
+            echo "YES"
+            echo "Size: $(wc -c < partners-data.json) bytes"
+            head -c 300 partners-data.json; echo
+          else
+            echo "NO"
+          fi
 
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add partners-data.json
-          git status --porcelain
+          # Always try to add + commit (no diff logic)
+          git add -f partners-data.json || true
 
-          git commit -m "chore: update partners-data.json" || echo "No changes to commit"
+          if git diff --cached --quiet; then
+            echo "No staged changes to commit."
+          else
+            git commit -m "chore: update partners-data.json"
+          fi
+
           git push
