@@ -31,12 +31,6 @@
       "url": "/events/34060-purple-dragons-logistics-july-monthly-convoy"
     },
     {
-      "id": 35019,
-      "title": "Ghost Express | Friday Night Drive #34",
-      "start": "2026-05-01 20:00:00",
-      "url": "/events/35019-ghost-express|-friday-night-drive#34"
-    },
-    {
       "id": 32066,
       "title": "Pink Ribbon VTC - 4th Anniversary",
       "start": "2026-05-15 19:00:00",
@@ -97,12 +91,6 @@
       "url": "/events/33933-%F0%9F%9F%A3-prime-ats-convoy#65"
     },
     {
-      "id": 35117,
-      "title": "TruckersMP12 Anniversary -  Festival",
-      "start": "2026-05-01 17:15:00",
-      "url": "/events/35117-truckersmp12-anniversary--festival"
-    },
-    {
       "id": 35121,
       "title": "TruckersMP12 Anniversary -  ETS2 Convoy",
       "start": "2026-05-03 17:00:00",
@@ -125,6 +113,12 @@
       "title": "Harrisyt Convoys We Are Back Convoy",
       "start": "2026-08-06 19:00:00",
       "url": "/events/33740-harrisyt-convoys-we-are-back-convoy"
+    },
+    {
+      "id": 33005,
+      "title": "TruckerDavid96 Birthday Convoy",
+      "start": "2026-08-28 17:00:00",
+      "url": "/events/33005-truckerdavid96-birthday-convoy"
     }
   ]
 }
