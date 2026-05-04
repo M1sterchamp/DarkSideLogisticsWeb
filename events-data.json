@@ -91,12 +91,6 @@
       "url": "/events/33933-%F0%9F%9F%A3-prime-ats-convoy#65"
     },
     {
-      "id": 35121,
-      "title": "TruckersMP12 Anniversary -  ETS2 Convoy",
-      "start": "2026-05-03 17:00:00",
-      "url": "/events/35121-truckersmp12-anniversary--ets2-convoy"
-    },
-    {
       "id": 35114,
       "title": "ZiMBO TRUCKERS 1ST ANNIVERSARY",
       "start": "2026-10-04 19:00:00",
@@ -113,6 +107,12 @@
       "title": "TruckerDavid96 Birthday Convoy",
       "start": "2026-08-28 17:00:00",
       "url": "/events/33005-truckerdavid96-birthday-convoy"
+    },
+    {
+      "id": 32365,
+      "title": "MALKOCOGLU LOGISTICS 2ND ANNIVERSARY CONVOY",
+      "start": "2026-06-06 18:00:00",
+      "url": "/events/32365-malkocoglu-logistics2nd-anniversary-convoy"
     }
   ]
 }
