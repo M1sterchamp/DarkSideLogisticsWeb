@@ -79,12 +79,6 @@
       "url": "/events/34184-global-cargo-public-convoy-june"
     },
     {
-      "id": 33933,
-      "title": "🟣 Prime ATS Convoy #65",
-      "start": "2026-05-08 22:00:00",
-      "url": "/events/33933-%F0%9F%9F%A3-prime-ats-convoy#65"
-    },
-    {
       "id": 35114,
       "title": "ZiMBO TRUCKERS 1ST ANNIVERSARY",
       "start": "2026-10-04 19:00:00",
@@ -125,6 +119,12 @@
       "title": "✨🎉Moonlight Express | 1 Year Anniversary 🎉✨",
       "start": "2026-10-28 19:00:00",
       "url": "/events/34727-%E2%9C%A8%F0%9F%8E%89moonlight-express|1-year-anniversary%F0%9F%8E%89%E2%9C%A8"
+    },
+    {
+      "id": 32139,
+      "title": "MALKOCOGLU LOGISTICS MAY CONVOY #13",
+      "start": "2026-05-20 18:00:00",
+      "url": "/events/32139-malkocoglu-logistics-may-convoy#13"
     }
   ]
 }
