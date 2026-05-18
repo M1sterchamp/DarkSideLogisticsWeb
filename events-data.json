@@ -85,12 +85,6 @@
       "url": "/events/32365-malkocoglu-logistics2nd-anniversary-convoy"
     },
     {
-      "id": 35404,
-      "title": "Official ATS Convoy - Wind energy",
-      "start": "2026-05-17 17:00:00",
-      "url": "/events/35404-official-ats-convoy--wind-energy"
-    },
-    {
       "id": 34040,
       "title": "🟣 Prime ATS Convoy #66",
       "start": "2026-06-12 22:00:00",
@@ -161,6 +155,18 @@
       "title": "Arctic | JULY CONVOY",
       "start": "2026-07-10 18:00:00",
       "url": "/events/34088-arctic|-july-convoy"
+    },
+    {
+      "id": 35287,
+      "title": "Sentora™ Company | September Convoy #7",
+      "start": "2026-09-01 18:00:00",
+      "url": "/events/35287-sentora%E2%84%A2-company|-september-convoy#7"
+    },
+    {
+      "id": 35021,
+      "title": "Ghost Express | Friday Night Drive #36",
+      "start": "2026-05-29 20:00:00",
+      "url": "/events/35021-ghost-express|-friday-night-drive#36"
     }
   ]
 }
