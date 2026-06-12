@@ -55,12 +55,6 @@
       "url": "/events/35179-purple-dragons-logistics-september-monthly-convoy"
     },
     {
-      "id": 34184,
-      "title": "Global Cargo Public Convoy June",
-      "start": "2026-06-11 18:00:00",
-      "url": "/events/34184-global-cargo-public-convoy-june"
-    },
-    {
       "id": 35114,
       "title": "ZiMBO TRUCKERS 1ST ANNIVERSARY",
       "start": "2026-10-04 19:00:00",
@@ -161,6 +155,12 @@
       "title": "Logis 2.0 | 7th Anniversary Convoy",
       "start": "2026-07-04 19:30:00",
       "url": "/events/35791-logis2.0|7th-anniversary-convoy"
+    },
+    {
+      "id": 35023,
+      "title": "Ghost Express | Friday Night Drive #37",
+      "start": "2026-06-12 20:00:00",
+      "url": "/events/35023-ghost-express|-friday-night-drive#37"
     }
   ]
 }
