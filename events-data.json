@@ -103,12 +103,6 @@
       "url": "/events/33736-pink-ribbon-vtc--august-convoy"
     },
     {
-      "id": 33314,
-      "title": "TruckersFM's Bene(lux) Exploration",
-      "start": "2026-06-14 18:00:00",
-      "url": "/events/33314-truckersfm%27s-bene%28lux%29-exploration"
-    },
-    {
       "id": 34655,
       "title": "TruckersFM's August Convoy",
       "start": "2026-08-16 18:00:00",
@@ -143,6 +137,24 @@
       "title": "Logis 2.0 | 7th Anniversary Convoy",
       "start": "2026-07-04 19:30:00",
       "url": "/events/35791-logis2.0|7th-anniversary-convoy"
+    },
+    {
+      "id": 36223,
+      "title": "DarkSide Logistics | First Ever Event on ATS!",
+      "start": "2026-06-26 23:00:00",
+      "url": "/events/36223-darkside-logistics|-first-ever-event-on-ats!"
+    },
+    {
+      "id": 36227,
+      "title": "✨ Premium Events Version #3 ✨",
+      "start": "2026-12-12 19:00:00",
+      "url": "/events/36227-%E2%9C%A8-premium-events-version#3%E2%9C%A8"
+    },
+    {
+      "id": 35025,
+      "title": "Ghost Express | Friday Night Drive #38",
+      "start": "2026-06-26 20:00:00",
+      "url": "/events/35025-ghost-express|-friday-night-drive#38"
     }
   ]
 }
