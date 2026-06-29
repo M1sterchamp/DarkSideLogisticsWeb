@@ -109,12 +109,6 @@
       "url": "/events/34088-arctic|-july-convoy"
     },
     {
-      "id": 35287,
-      "title": "Sentora™ Company | September Convoy #7",
-      "start": "2026-09-01 18:00:00",
-      "url": "/events/35287-sentora%E2%84%A2-company|-september-convoy#7"
-    },
-    {
       "id": 33765,
       "title": "PPA Logistics | July Convoy",
       "start": "2026-07-15 18:00:00",
@@ -185,6 +179,30 @@
       "title": "NørthWind Monthly Convoy #16",
       "start": "2026-09-29 18:00:00",
       "url": "/events/35192-n%C3%B8rthwind-monthly-convoy#16"
+    },
+    {
+      "id": 35372,
+      "title": "Purple Dragons Logistics Private Christmas Drive Convoy",
+      "start": "2026-12-20 17:00:00",
+      "url": "/events/35372-purple-dragons-logistics-private-christmas-drive-convoy"
+    },
+    {
+      "id": 36395,
+      "title": "Purple Dragons Logistics December Monthly Convoy",
+      "start": "2026-12-05 17:00:00",
+      "url": "/events/36395-purple-dragons-logistics-december-monthly-convoy"
+    },
+    {
+      "id": 36394,
+      "title": "Purple Dragons Logistics November Monthly Convoy",
+      "start": "2026-11-28 17:00:00",
+      "url": "/events/36394-purple-dragons-logistics-november-monthly-convoy"
+    },
+    {
+      "id": 33418,
+      "title": "Pean Logistics 3 Year Anniversary",
+      "start": "2026-07-24 18:00:00",
+      "url": "/events/33418-pean-logistics3-year-anniversary"
     }
   ]
 }
