@@ -151,12 +151,6 @@
       "url": "/events/35722-moonlight-express|-november-convoy"
     },
     {
-      "id": 32957,
-      "title": "Pink Ribbon VTC - July Convoy",
-      "start": "2026-07-03 19:00:00",
-      "url": "/events/32957-pink-ribbon-vtc--july-convoy"
-    },
-    {
       "id": 35274,
       "title": "Arctic | SEPTEMBER CONVOY",
       "start": "2026-09-13 19:00:00",
@@ -209,6 +203,12 @@
       "title": "DarkSide Logistics Bi-Weekly Convoy #2 | Off To The Races",
       "start": "2026-07-10 23:00:00",
       "url": "/events/36552-darkside-logistics-bi-weekly-convoy#2|-off-to-the-races"
+    },
+    {
+      "id": 36414,
+      "title": "Official ATS Convoy - Animal Transporting",
+      "start": "2026-07-26 17:00:00",
+      "url": "/events/36414-official-ats-convoy--animal-transporting"
     }
   ]
 }
