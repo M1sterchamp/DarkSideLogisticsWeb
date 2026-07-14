@@ -103,12 +103,6 @@
       "url": "/events/36227-%E2%9C%A8-premium-events-version#3%E2%9C%A8"
     },
     {
-      "id": 33381,
-      "title": "NørthWind Monthly Convoy #14",
-      "start": "2026-07-13 18:00:00",
-      "url": "/events/33381-n%C3%B8rthwind-monthly-convoy#14"
-    },
-    {
       "id": 36266,
       "title": "Purple Dragons Logistics October Monthly Convoy",
       "start": "2026-10-31 17:00:00",
@@ -179,6 +173,18 @@
       "title": "Official ATS Convoy - Animal Transporting",
       "start": "2026-07-26 17:00:00",
       "url": "/events/36414-official-ats-convoy--animal-transporting"
+    },
+    {
+      "id": 36668,
+      "title": "DarkSide Logistics Bi-Weekly Convoy #4 | Bayou Bonanza",
+      "start": "2026-07-31 23:00:00",
+      "url": "/events/36668-darkside-logistics-bi-weekly-convoy#4|-bayou-bonanza"
+    },
+    {
+      "id": 35695,
+      "title": "Pink Ribbon VTC - November Convoy",
+      "start": "2026-11-13 19:00:00",
+      "url": "/events/35695-pink-ribbon-vtc--november-convoy"
     }
   ]
 }
