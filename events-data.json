@@ -145,12 +145,6 @@
       "url": "/events/36394-purple-dragons-logistics-november-monthly-convoy"
     },
     {
-      "id": 36414,
-      "title": "Official ATS Convoy - Animal Transporting",
-      "start": "2026-07-26 17:00:00",
-      "url": "/events/36414-official-ats-convoy--animal-transporting"
-    },
-    {
       "id": 36668,
       "title": "DarkSide Logistics Bi-Weekly Convoy #4 | Bayou Bonanza",
       "start": "2026-07-31 23:00:00",
@@ -161,6 +155,24 @@
       "title": "Pink Ribbon VTC - November Convoy",
       "start": "2026-11-13 19:00:00",
       "url": "/events/35695-pink-ribbon-vtc--november-convoy"
+    },
+    {
+      "id": 36718,
+      "title": "Purple Dragons Logistics 2nd Year Anniversary Convoy",
+      "start": "2027-01-24 17:00:00",
+      "url": "/events/36718-purple-dragons-logistics2nd-year-anniversary-convoy"
+    },
+    {
+      "id": 36677,
+      "title": "Looneybin Truckers 1ST Anniversary",
+      "start": "2026-12-17 19:00:00",
+      "url": "/events/36677-looneybin-truckers1st-anniversary"
+    },
+    {
+      "id": 36841,
+      "title": "Logis 2.0 | August Monthly Convoy",
+      "start": "2026-08-20 19:30:00",
+      "url": "/events/36841-logis2.0|-august-monthly-convoy"
     }
   ]
 }
