@@ -55,12 +55,6 @@
       "url": "/events/34299-pink-ribbon-vtc--september-convoy"
     },
     {
-      "id": 34655,
-      "title": "TruckersFM's August Convoy",
-      "start": "2026-08-16 18:00:00",
-      "url": "/events/34655-truckersfm%27s-august-convoy"
-    },
-    {
       "id": 33580,
       "title": "M-H-S-M PARTNERSHIP CONVOY 🤝",
       "start": "2026-09-13 18:00:00",
@@ -155,6 +149,24 @@
       "title": "Pinkachu's Birthday Celebration Convoy :🎉",
       "start": "2027-01-18 21:00:00",
       "url": "/events/36903-pinkachu%27s-birthday-celebration-convoy:%F0%9F%8E%89"
+    },
+    {
+      "id": 36101,
+      "title": "Pink Ribbon VTC - December Convoy",
+      "start": "2026-12-04 19:00:00",
+      "url": "/events/36101-pink-ribbon-vtc--december-convoy"
+    },
+    {
+      "id": 36585,
+      "title": "Moonlight Express | January Convoy",
+      "start": "2027-01-21 19:00:00",
+      "url": "/events/36585-moonlight-express|-january-convoy"
+    },
+    {
+      "id": 33826,
+      "title": "KINGS LOGISTICS | 3rd Anniversary Convoy",
+      "start": "2026-08-22 19:00:00",
+      "url": "/events/33826-kings-logistics|3rd-anniversary-convoy"
     }
   ]
 }
