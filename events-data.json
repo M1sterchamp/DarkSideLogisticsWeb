@@ -133,12 +133,6 @@
       "url": "/events/36677-looneybin-truckers1st-anniversary"
     },
     {
-      "id": 36841,
-      "title": "Logis 2.0 | August Monthly Convoy",
-      "start": "2026-08-20 19:30:00",
-      "url": "/events/36841-logis2.0|-august-monthly-convoy"
-    },
-    {
       "id": 36903,
       "title": "Pinkachu's Birthday Celebration Convoy :🎉",
       "start": "2027-01-18 21:00:00",
@@ -161,6 +155,12 @@
       "title": "KINGS LOGISTICS | 3rd Anniversary Convoy",
       "start": "2026-08-22 19:00:00",
       "url": "/events/33826-kings-logistics|3rd-anniversary-convoy"
+    },
+    {
+      "id": 37305,
+      "title": "Moonlight Express | February Convoy",
+      "start": "2027-02-16 19:00:00",
+      "url": "/events/37305-moonlight-express|-february-convoy"
     }
   ]
 }
