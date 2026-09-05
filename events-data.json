@@ -37,12 +37,6 @@
       "url": "/events/34727-%E2%9C%A8%F0%9F%8E%89moonlight-express|1-year-anniversary%F0%9F%8E%89%E2%9C%A8"
     },
     {
-      "id": 34299,
-      "title": "Pink Ribbon VTC - September Convoy",
-      "start": "2026-09-04 19:00:00",
-      "url": "/events/34299-pink-ribbon-vtc--september-convoy"
-    },
-    {
       "id": 33580,
       "title": "M-H-S-M PARTNERSHIP CONVOY 🤝",
       "start": "2026-09-13 18:00:00",
@@ -167,6 +161,12 @@
       "title": "Harrisyt Convoys 3 Year Anniversary",
       "start": "2027-02-14 19:00:00",
       "url": "/events/37310-harrisyt-convoys3-year-anniversary"
+    },
+    {
+      "id": 37364,
+      "title": "Drive Along Sunset Westbound Voyage",
+      "start": "2026-11-16 16:00:00",
+      "url": "/events/37364-drive-along-sunset-westbound-voyage"
     }
   ]
 }
